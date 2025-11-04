@@ -189,7 +189,7 @@ body {
 .hero {
     position: relative;
     height: 600px;
-    background: url('https://images.unsplash.com/photo-1438032005730-c779502df39b?w=1600&h=900&fit=crop') center/cover;
+    background: url('assets/imgs/01.jpg') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -392,7 +392,7 @@ body {
 .newsletter-section {
     position: relative;
     padding: 100px 0;
-    background: url('https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=1600&h=600&fit=crop') center/cover;
+    background: url('assets/imgs/01.jpg') center/cover;
     text-align: center;
     color: #fff;
 }
